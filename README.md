@@ -45,7 +45,12 @@ Ensured the landing page was fully responsive and optimized for all devices, pro
 - Optimizing web performance
 
 ## 📫 How to Reach Me
-- Email: mailto:prathameshgite366@gmail.com
+<div align="left">
+  <a href="mailto:prathameshgite366@gmail.com"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mail.png" alt="mail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/linkedin.webp" alt="linkedin" width="50" /></a>
+  <a href="https://www.instagram.com/the_pratham_gite"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/insta.png" alt="instagram" width="50" /></a>
+  <a href="https://x.com/Pratham151403"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/x.png" alt="X" width="50" /></a>
+</div>
 - LinkedIn: https://www.linkedin.com/in/prathamesh-gite-9b42a2209
 - Portfolio: https://prathamesh-gite-portfolio.netlify.app/
 
