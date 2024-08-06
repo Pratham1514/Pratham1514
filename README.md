@@ -15,6 +15,9 @@ I'm a passionate full-stack developer with diverse skill sets spanning various t
   <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/node.gif" width="90" />
   <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/ExpressJS-logo.png" width="90" />
   <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/java.gif" width="50" />
+  <h2>Version-control</h2>
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/git.png" width="50" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/Github.png" width="50" />
 </div>
 
 ## 🚀 Projects
