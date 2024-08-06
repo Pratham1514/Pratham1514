@@ -51,8 +51,6 @@ Ensured the landing page was fully responsive and optimized for all devices, pro
   <a href="https://www.instagram.com/the_pratham_gite"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/insta.png" alt="instagram" width="50" /></a>
   <a href="https://x.com/Pratham151403"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/x.png" alt="X" width="50" /></a>
 </div>
-- LinkedIn: https://www.linkedin.com/in/prathamesh-gite-9b42a2209
-- Portfolio: https://prathamesh-gite-portfolio.netlify.app/
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham1514&show_icons=true&theme=radical)
