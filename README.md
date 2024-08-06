@@ -15,17 +15,24 @@ I'm a passionate full-stack developer with diverse skill sets spanning various t
   <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/node.gif" width="90" />
   <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/ExpressJS-logo.png" width="90" />
   <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/java.gif" width="50" />
+  <h2>Database</h2>
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mongo.webp" width="50" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mysql.webp" width="50" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/postgresql.png" width="50" />
   <h2>Version-control</h2>
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/git.png" width="50" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/git.webp" width="50" />
   <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/Github.png" width="50" />
+  <h2>Other Tools</h2>
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/figma.webp" width="50" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/postman.webp" width="50" />
 </div>
 
 ## 🚀 Projects
-### [Project Name](Link to Project)
-Description of the project, technologies used, and any interesting features.
+### Money Tracker (https://github.com/Pratham1514/money-tracker)
+The Simple Money Tracker is a web application designed to help users effortlessly manage their finances. With an intuitive interface and essential features, this app allows users to track their income, and expenses, and view their financial summary in real-time.
 
-### [Project Name](Link to Project)
-Description of the project, technologies used, and any interesting features.
+### Landing Page (https://brainwave-ai-nine.vercel.app/)
+Ensured the landing page was fully responsive and optimized for all devices, providing a seamless user experience across desktops, tablets, and mobile phones. Utilized Tailwind CSS and Figma to create a clean, modern, and user-friendly design that captures the essence of Brainwave AI's innovative approach.
 
 ## 🌱 What I'm Currently Learning
 - Advanced React Patterns
@@ -48,9 +55,5 @@ Description of the project, technologies used, and any interesting features.
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pratham1514&theme=radical)
-
-## 📄 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 **Feel free to check out my repositories and leave a star ⭐ if you find something useful!**
