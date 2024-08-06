@@ -3,12 +3,15 @@
 I'm a passionate full-stack developer with diverse skill sets spanning various technologies. I enjoy creating elegant, efficient, and user-friendly web applications. Here's a little about me and what I do:
 
 ## 🔧 Technologies & Tools
-- **Front-end:**  <img src="" alt="react" />React.js, HTML, CSS, JavaScript, Bootstrap, <video width="30" height="30" autoplay><source src="movie.mp4" type="video/mp4"></video>Tailwind CSS
-- **Back-end:** Node.js, Express.js, Java
-- **Database:** MongoDB, SQL
-- **Design:** Figma
-- **Version Control:** Git, GitHub
-- **Other Tools:** Docker, Jenkins, Postman
+<div align-center>
+  <h2>Front-end</h2>
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/react.webp" width="100" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/js.webp" width="100" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/html.gif" width="100" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/css.gif" width="100" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/bootstrap.webp" width="100" />
+  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/Tailwind%20CSS.png" width="100" />
+</div>
 
 ## 🚀 Projects
 ### [Project Name](Link to Project)
