@@ -26,6 +26,20 @@
   <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/postman.webp" width="50" />
 </div>
 
+
+## 🌱 What I'm Currently Learning
+- Advanced React Patterns
+- Next.js
+- Cloud Computing with AWS
+
+## 📫 Connect With Me
+<div align="left">
+  <a href="mailto:prathameshgite366@gmail.com"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mail.png" alt="mail" width="50"/></a>
+  <a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/linkedin.png" alt="linkedin" width="50" /></a>
+  <a href="https://www.instagram.com/the_pratham_gite"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/insta.png" alt="instagram" width="50" /></a>
+  <a href="https://x.com/Pratham151403"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/x.png" alt="X" width="50" /></a>
+</div>
+
 ## 🚀 Projects
 <div>
   <img src="https://github.com/Pratham1514/MyPortfolio/blob/main/src/assets/money-tracker1.png" alt="money-tracker" align="right" width="100' height="100" />
@@ -41,23 +55,11 @@ The Simple Money Tracker is a web application designed to help users effortlessl
 ### Landing Page (https://brainwave-ai-nine.vercel.app/)
 Ensured the landing page was fully responsive and optimized for all devices, providing a seamless user experience across desktops, tablets, and mobile phones. Utilized Tailwind CSS and Figma to create a clean, modern, and user-friendly design that captures the essence of Brainwave AI's innovative approach.
 
-## 🌱 What I'm Currently Learning
-- Advanced React Patterns
-- Next.js
-- Cloud Computing with AWS
-
 ## 💬 Ask Me About
 - Building full-stack web applications
 - Designing responsive and accessible user interfaces
 - Optimizing web performance
 
-## 📫 Connect With Me
-<div align="left">
-  <a href="mailto:prathameshgite366@gmail.com"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mail.png" alt="mail" width="50"/></a>
-  <a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/linkedin.png" alt="linkedin" width="50" /></a>
-  <a href="https://www.instagram.com/the_pratham_gite"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/insta.png" alt="instagram" width="50" /></a>
-  <a href="https://x.com/Pratham151403"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/x.png" alt="X" width="50" /></a>
-</div>
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham1514&show_icons=true&theme=radical)
