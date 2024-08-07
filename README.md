@@ -1,7 +1,6 @@
-# Hi there, I'm Prathamesh Gite 👋
+<img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/Make-your-README.jpg" alt="Prathamesh Gite" align="center" />
 
-I'm a passionate full-stack developer with diverse skill sets spanning various technologies. I enjoy creating elegant, efficient, and user-friendly web applications. Here's a little about me and what I do:
-
+## Here's a little about me and what I do:
 ## 🔧 Technologies & Tools
 <div align="left">
   <h2>Front-end</h2>
@@ -28,15 +27,23 @@ I'm a passionate full-stack developer with diverse skill sets spanning various t
 </div>
 
 ## 🚀 Projects
+<div>
+  <img src="https://github.com/Pratham1514/MyPortfolio/blob/main/src/assets/money-tracker1.png" alt="money-tracker" align="right" width="100' height="100" />
+</div>
+
 ### Money Tracker (https://github.com/Pratham1514/money-tracker)
 The Simple Money Tracker is a web application designed to help users effortlessly manage their finances. With an intuitive interface and essential features, this app allows users to track their income, and expenses, and view their financial summary in real-time.
+
+<div>
+  <img src="https://github.com/Pratham1514/MyPortfolio/blob/main/src/assets/background.jpg" alt="money-tracker" align="right" width="100' height="100" />
+</div>
 
 ### Landing Page (https://brainwave-ai-nine.vercel.app/)
 Ensured the landing page was fully responsive and optimized for all devices, providing a seamless user experience across desktops, tablets, and mobile phones. Utilized Tailwind CSS and Figma to create a clean, modern, and user-friendly design that captures the essence of Brainwave AI's innovative approach.
 
 ## 🌱 What I'm Currently Learning
 - Advanced React Patterns
-- Microservices Architecture
+- Next.js
 - Cloud Computing with AWS
 
 ## 💬 Ask Me About
@@ -46,8 +53,8 @@ Ensured the landing page was fully responsive and optimized for all devices, pro
 
 ## 📫 How to Reach Me
 <div align="left">
-  <a href="mailto:prathameshgite366@gmail.com"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mail.png" alt="mail" width="40"/></a>
-  <a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/linkedin.webp" alt="linkedin" width="50" /></a>
+  <a href="mailto:prathameshgite366@gmail.com"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mail.png" alt="mail" width="50"/></a>
+  <a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/linkedin.png" alt="linkedin" width="50" /></a>
   <a href="https://www.instagram.com/the_pratham_gite"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/insta.png" alt="instagram" width="50" /></a>
   <a href="https://x.com/Pratham151403"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/x.png" alt="X" width="50" /></a>
 </div>
