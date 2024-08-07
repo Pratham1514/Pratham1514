@@ -51,7 +51,7 @@ Ensured the landing page was fully responsive and optimized for all devices, pro
 - Designing responsive and accessible user interfaces
 - Optimizing web performance
 
-## 📫 How to Reach Me
+## 📫 Connect With Me
 <div align="left">
   <a href="mailto:prathameshgite366@gmail.com"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mail.png" alt="mail" width="50"/></a>
   <a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/linkedin.png" alt="linkedin" width="50" /></a>
