@@ -1,71 +1,92 @@
+<h1 align="center">Hi 👋, I'm Prathamesh Gite</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
+
 <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/Make-your-README.jpg" alt="Prathamesh Gite" align="center" />
 
-## Here's a little about me and what I do:
-## 🔧 Technologies & Tools
-<div align="left">
-  <h2>Front-end</h2>
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/react.webp" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/js.webp" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/html.gif" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/css.gif" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/bootstrap.webp" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/Tailwind%20CSS.png" width="50" />
-  <h2>Back-end</h2>
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/node.gif" width="90" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/ExpressJS-logo.png" width="90" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/java.gif" width="50" />
-  <h2>Database</h2>
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mongo.webp" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mysql.webp" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/postgresql.png" width="50" />
-  <h2>Version-control</h2>
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/git.webp" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/Github.png" width="50" />
-  <h2>Other Tools</h2>
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/figma.webp" width="50" />
-  <img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/postman.webp" width="50" />
-</div>
+---
 
+## 👨‍💻 About Me
 
-## 🌱 What I'm Currently Learning
-- Advanced React Patterns
-- Next.js
-- Cloud Computing with AWS
+- 🎓 Bachelor's Degree in Information Technology (2023)
+- 💼 Currently working as a Software Engineer at Lionbridge Technologies
+- 📊 Transitioning into **Data Analytics**
+- 🧠 Interested in **Data Visualization, Business Insights, and Data Storytelling**
+- 📍 Based in India
 
-## 📫 Connect With Me
-<div align="left">
-  <a href="mailto:prathameshgite366@gmail.com"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/mail.png" alt="mail" width="50"/></a>
-  <a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/linkedin.png" alt="linkedin" width="50" /></a>
-  <a href="https://www.instagram.com/the_pratham_gite"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/insta.png" alt="instagram" width="50" /></a>
-  <a href="https://x.com/Pratham151403"><img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/x.png" alt="X" width="50" /></a>
-</div>
+---
 
-## 🚀 Projects
-<div>
-  <img src="https://github.com/Pratham1514/MyPortfolio/blob/main/src/assets/money-tracker1.png" alt="money-tracker" align="right" width="100' height="100" />
-</div>
+## 🛠️ Data Analytics Tools & Technologies
 
-### Money Tracker (https://github.com/Pratham1514/money-tracker)
-The Simple Money Tracker is a web application designed to help users effortlessly manage their finances. With an intuitive interface and essential features, this app allows users to track their income, and expenses, and view their financial summary in real-time.
+### 📊 Data Analysis
+- Python (Pandas, NumPy)
+- SQL
+- Excel
 
-<div>
-  <img src="https://github.com/Pratham1514/MyPortfolio/blob/main/src/assets/background.jpg" alt="money-tracker" align="right" width="100' height="100" />
-</div>
+### 📈 Data Visualization
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
 
-### Landing Page (https://brainwave-ai-nine.vercel.app/)
-Ensured the landing page was fully responsive and optimized for all devices, providing a seamless user experience across desktops, tablets, and mobile phones. Utilized Tailwind CSS and Figma to create a clean, modern, and user-friendly design that captures the essence of Brainwave AI's innovative approach.
+### 🗄️ Databases
+- MySQL
+- PostgreSQL
+- MongoDB
 
-## 💬 Ask Me About
-- Building full-stack web applications
-- Designing responsive and accessible user interfaces
-- Optimizing web performance
+### ⚙️ Other Tools
+- Jupyter Notebook
+- Git & GitHub
+- Figma
 
+---
+
+## 📊 Data Analytics Projects
+
+### 🎬 Netflix Content Analysis
+Analyzed Netflix dataset to uncover insights about content trends, genres, country distribution, and release patterns.
+
+**Tools Used**
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+
+**Key Insights**
+- Content growth trends over the years
+- Most popular genres
+- Country-wise content production
+- Movies vs TV shows distribution
+
+🔗 Project Link: (Add GitHub repo here)
+
+---
+
+### 💰 Financial Data Analysis (Money Tracker)
+Analyzed income and expense data to understand spending behavior and financial patterns.
+
+**Tools Used**
+- SQL
+- Excel
+- Power BI
+
+🔗 Project Link: (Add repo)
+
+---
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham1514&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham1514&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pratham1514&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham1514&show_icons=true&theme=radical)
 
-**Feel free to check out my repositories and leave a star ⭐ if you find something useful!**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham1514&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect With Me
+
+<a href="mailto:prathameshgite366@gmail.com">Email</a> |
+<a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209">LinkedIn</a> |
+<a href="https://x.com/Pratham151403">Twitter/X</a>
+
+---
+
+⭐ Feel free to explore my repositories and follow my **Data Analytics journey**
