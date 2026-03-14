@@ -84,7 +84,7 @@ Analyzed income and expense data to understand spending behavior and financial p
 ## 📫 Connect With Me
 
 <a href="mailto:prathameshgite366@gmail.com">Email</a> |
-<a href="https://www.linkedin.com/in/prathamesh-gite-9b42a2209">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/prathamesh-gite-927949383">LinkedIn</a> |
 <a href="https://x.com/Pratham151403">Twitter/X</a>
 
 ---
