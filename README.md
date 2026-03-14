@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Gite</h1>
-<h3 align="center">Aspiring Data Analyst | Turning Data into Insights 📊</h3>
-
-<img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/Make-your-README.jpg" alt="Prathamesh Gite" align="center" />
+<img src="https://github.com/Pratham1514/Pratham1514/blob/main/images/data analyst.png" alt="Prathamesh Gite" align="center" />
 
 ---
 
@@ -83,7 +80,7 @@ Analyzed income and expense data to understand spending behavior and financial p
 
 ## 📫 Connect With Me
 
-<a href="mailto:prathameshgite366@gmail.com">Email</a> |
+<a href="mailto:prathamgite96@gmail.com">Email</a> |
 <a href="https://www.linkedin.com/in/prathamesh-gite-927949383">LinkedIn</a> |
 <a href="https://x.com/Pratham151403">Twitter/X</a>
 
